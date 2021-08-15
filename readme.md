@@ -2,7 +2,7 @@
 
 Gravity run is my first bigger game in pygame
 
-## Setup & Installtion
+## Setup & Installation
 Ensure you have python 3.6+ installed.
 ```bash
 git clone <repo-url>
